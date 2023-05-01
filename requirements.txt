@@ -1,0 +1,8 @@
+slack-sdk
+slack-bolt
+# Flask
+fastapi
+uvicorn
+python-dotenv
+langchain
+openai
